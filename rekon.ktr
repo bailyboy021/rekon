@@ -1148,8 +1148,8 @@ AND billercode = 'MRC22363';</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1264</xloc>
-      <yloc>176</yloc>
+      <xloc>1120</xloc>
+      <yloc>272</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1610,8 +1610,8 @@ AND billercode = 'MRC22363';</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1360</xloc>
-      <yloc>352</yloc>
+      <xloc>1232</xloc>
+      <yloc>112</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1710,8 +1710,8 @@ AND billercode = 'MRC22363';</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1152</xloc>
-      <yloc>384</yloc>
+      <xloc>1232</xloc>
+      <yloc>368</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -2319,8 +2319,8 @@ AND billercode = 'MRC22363';</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1360</xloc>
-      <yloc>176</yloc>
+      <xloc>1120</xloc>
+      <yloc>112</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -2475,8 +2475,8 @@ AND billercode = 'MRC22363';</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1136</xloc>
-      <yloc>176</yloc>
+      <xloc>1024</xloc>
+      <yloc>272</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
